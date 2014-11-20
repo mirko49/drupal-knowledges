@@ -1,0 +1,7 @@
+name = mycustomfield
+description = mycustomfield
+core = 7.x
+package = Mymodules
+version = 7.x-1.0
+dependencies[] = views
+files[] = views/mycustomfield_handler_custom_field.inc
